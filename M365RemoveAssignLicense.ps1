@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Removes and assigns an M365 license
+    Removes and assigns an M365 license (Direct Assignment)
 .DESCRIPTION
     Parses Users.csv for license change
 .NOTES
