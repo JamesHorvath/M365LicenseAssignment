@@ -1,4 +1,5 @@
 <#
+Set-AzureADUserLicense has been deprecated
 .SYNOPSIS
     Remove License from user and add user to group
 .DESCRIPTION
