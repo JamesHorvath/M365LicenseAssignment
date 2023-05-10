@@ -1,4 +1,5 @@
 <#
+Azure AD PoSH for Graph Module is being deprecated Please see MS Graph PoSH SDK
 .SYNOPSIS
     Removes and assigns an M365 license (Direct Assignment)
 .DESCRIPTION
